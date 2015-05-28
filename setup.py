@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='characters',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/halfmoonlabs/characters',
     license='MIT',
     author='Halfmoon Labs',
